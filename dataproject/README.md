@@ -14,5 +14,5 @@ In the project two datasets are loaded:
 ``pip install pandas_datareader``
 
 
-**Findings:***
+**Findings:**
 Exchange rates depend on many factors, yet there seems to be some correlation with GDP growth. Some exchange rates are more volatile than others and generally the correlation differs for each country since they all have different charactaristics. 
