@@ -1,7 +1,5 @@
 # Model analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled **The Solow model with human capital** and is about the impact of savings of human capital to production. The primary focus of the project is the effect of a rise in the savings rate of human capital on the steady states values of the model, as well as the optimal savings rate required to maximise consumption.
 
-The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
-
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
+**Dependencies:** Apart from a standard Anaconda Python 3 installation, no installations are required, but to run the project sympy version 1.4 is needed.
