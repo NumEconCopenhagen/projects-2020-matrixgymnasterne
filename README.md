@@ -21,7 +21,7 @@ These are included in the folder.
 
 **The Model Project** 
 
-The project goals are to illustrate and optimise The Solow Model with human capital in respect to the savings rate of human capital. 
+The project goal is to illustrate and optimise The Solow Model with human capital in respect to the savings rate of human capital. 
 
 Important: To run the project sympy version 1.4 is needed. 
 
