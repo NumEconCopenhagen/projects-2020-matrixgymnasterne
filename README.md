@@ -1,19 +1,20 @@
 This repository contains the three semester projects and the exam assignment. 
 
-Dependencies: All project requires the standard Anaconda Python 3 installation
+**Dependencies:** All project requires the standard Anaconda Python 3 installation.
 
-**The Inaugural project** 
+**The Inaugural Project** 
 
 In this project the focus was to learn the general idea behind Pythons platforms and packages and to maximise utility and see the impact of tax revenue across different tax brackets. 
 
 **The Data Project**
 
-The project analyses exchanges rates and GDP growth and the correlation between these. The project contains two datasets 
+The project analyses exchange rates and GDP growth and the correlation between these. The project contains two datasets: 
 - VALUTAKURSER.xls downloaded from data.worldbank.org/indicator/PA.NUS.FCRF
 - BNPVÆKST.xls downloaded from data.worldbank.org/indicator/ny.gdp.mktp.kd.zg
+
 These are included in the folder. 
 
-**Dependencies** for dataproject:
+**Dependencies** for data project:
 
 ``pip install matplotlib-venn``
 
@@ -21,9 +22,9 @@ These are included in the folder.
 
 **The Model Project** 
 
-The project goal is to illustrate and optimise The Solow Model with human capital in respect to the savings rate of human capital. 
+The project goal is to illustrate and optimise the Solow Model with human capital in respect to the savings rate of human capital. 
 
-Important: To run the project sympy version 1.4 is needed. 
+**Important:** To run the project sympy version 1.4 is needed. 
 
 **The Exam Project**
 
