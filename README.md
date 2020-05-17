@@ -1,4 +1,5 @@
 This repository contains the three semester projects and the exam assignment. 
+
 Dependencies: All project requires the standard Anaconda Python 3 installation
 
 **The Inaugural project** 
