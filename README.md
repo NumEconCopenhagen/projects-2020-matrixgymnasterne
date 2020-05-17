@@ -8,18 +8,15 @@ In this project the focus was to learn the general idea behind Pythons platforms
 **The Data Project**
 
 The project analyses exchanges rates and GDP growth and the correlation between these. The project contains two datasets 
-
-VALUTAKURSER.xls downloaded from data.worldbank.org/indicator/PA.NUS.FCRF
-
-BNPVÆKST.xls downloaded from data.worldbank.org/indicator/ny.gdp.mktp.kd.zg
-
+- VALUTAKURSER.xls downloaded from data.worldbank.org/indicator/PA.NUS.FCRF
+- BNPVÆKST.xls downloaded from data.worldbank.org/indicator/ny.gdp.mktp.kd.zg
 These are included in the folder. 
 
-Dependencies for dataproject:
+**Dependencies** for dataproject:
 
-pip install matplotlib-venn
+``pip install matplotlib-venn``
 
-pip install pandas_datareader
+``pip install pandas_datareader``
 
 **The Model Project** 
 
